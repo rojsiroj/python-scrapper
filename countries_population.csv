@@ -1,0 +1,240 @@
+rank,name,population,date,percentage,source
+1,Tiongkok,1.409.910.000,"Mei 19, 2021",18.3%,http://data.stats.gov.cn/english/
+2,India,1.377.170.000,"Mei 19, 2021",17.9%,http://worldpopulationclock.info/india
+3,Amerika Serikat,335.762.000,"Mei 19, 2021",4.35%,https://www.census.gov/popclock/
+4,Indonesia,271.349.889,"January 21, 2021",3.48%,https://www.bps.go.id/
+5,Pakistan,223.676.000,"Mei 19, 2021",2.9%,http://www.pbs.gov.pk/
+6,Brasil,214.852.000,"Mei 19, 2021",2.79%,http://www.ibge.gov.br/apps/populacao/projecao/index.html
+7,Nigeria,193.392.517,1 Juli 2016,2.51%,http://nigerianstat.gov.ng/download/775
+8,Bangladesh,170.690.000,"Mei 19, 2021",2.21%,https://web.archive.org/web/20110904045106/http://www.bbs.gov.bd/Home.aspx
+9,Rusia,146.877.088,1 Januari 2018,1.9%,http://www.gks.ru/free_doc/new_site/population/demo/PrPopul2018.xlsx
+10,Meksiko,126.577.691,1 Januari 2019,1.64%,http://www.conapo.gob.mx/work/models/CONAPO/Mapa_Ind_Dem18/index_2.html
+11,Jepang,126.420.000,1 Desember 2018,1.64%,http://www.stat.go.jp/english/data/jinsui/tsuki/index.htm
+12,Filipina,112.313.800,"Mei 19, 2021",1.46%,http://rpo3.popcom.gov.ph/
+13,Mesir,101.748.700,"Mei 19, 2021",1.32%,http://www.capmas.gov.eg/
+14,Etiopia,94.352.000,1 Juli 2017,1.22%,http://www.csa.gov.et/index.php?option=com_content&view=article&id=1&Itemid=101
+15,Vietnam,93.700.000,1 Juli 2017,1.22%,http://www.gso.gov.vn/default.aspx?tabid=621&ItemID=18471
+16,Jerman,82.740.900,30 September 2017,1.07%,https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/Bevoelkerung/Bevoelkerungsstand/Tabellen/Zensus_Geschlecht_Staatsangehoerigkeit.html
+17,Iran,83.725.100,"Mei 19, 2021",1.086%,http://www.amar.org.ir/english/Population-help
+18,Republik Demokratik Kongo,81.339.900,1 Juli 2017,1.05%,http://esa.un.org/unpd/wpp/DataQuery/
+19,Turki,80.810.525,31 Desember 2017,1.05%,http://www.turkstat.gov.tr/Start.do
+20,Thailand,69.037.513,1 Juli 2017,0.9%,https://esa.un.org/unpd/wpp/DataQuery/
+21,Prancis,67.225.000,1 Mei 2018,0.87%,http://www.insee.fr/en/bases-de-donnees/bsweb/serie.asp?idbank=001641607
+22,Britania Raya,"65,648,054",1 Juli 2016,0.85%,https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/timeseries/ukpop/pop
+23,Italia,"60,483,973",30 Desember 2017,0.78%,http://demo.istat.it/bilmens2017gen/index.html
+24,Afrika Selatan,"56,717,000",1 Juli 2017,0.74%,http://www.statssa.gov.za/publications/P0302/P03022017.pdf
+25,Myanmar,"53,370,609",1 Juli 2017,0.69%,http://esa.un.org/unpd/wpp/DataQuery/
+26,Tanzania,"52,554,628",1 Juli 2017,0.68%,http://www.nbs.go.tz/nbs/takwimu/census2012/Projection-Report-20132035.pdf
+27,Korea Selatan,"51,446,201",1 Juli 2017,0.67%,http://kosis.kr/nsportalStats/nsportalStats_0102Body.jsp?menuId=10
+28,Kolombia,51.317.300,"Mei 19, 2021",0.665%,http://www.dane.gov.co/reloj/
+29,Kenya,"49,699,862",1 Juli 2017,0.64%,http://esa.un.org/unpd/wpp/DataQuery/
+30,Spanyol,"46,549,045",1 Juli 2017,0.6%,http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176951&menu=ultiDatos&idp=1254735572981
+31,Argentina,"44,044,811",1 Juli 2017,0.57%,http://www.indec.gob.ar/nivel4_default.asp?id_tema_1=2&id_tema_2=24&id_tema_3=84
+32,Ukraina,"42,322,028",1 April 2018,0.55%,http://database.ukrcensus.gov.ua/PXWEB2007/eng/news/op_popul_e.asp
+33,Aljazair,"41,697,498",1 Juli 2017,0.54%,http://www.ons.dz/IMG/pdf/DemogAlgerienne_2016.pdf
+34,Sudan,"40,782,742",1 Juli 2017,0.53%,https://web.archive.org/web/20171020065151/http://www.cbs.gov.sd/en/download.php?id=45&file=Pop._Proj._by_satates137.pdf&count=65
+35,Polandia,"38,422,346",30 Juni 2017,0.5%,http://stat.gov.pl/download/gfx/portalinformacyjny/en/defaultaktualnosci/3286/3/22/1/population._size_and_structure_by_territorial_divison_as_of_30_Juni_2017.pdf
+36,Irak,"38,274,618",1 Juli 2017,0.5%,http://esa.un.org/unpd/wpp/DataQuery/
+37,Uganda,"37,673,800",1 Juli 2017,0.49%,http://www.ubos.org/onlinefiles/uploads/ubos/census_2014_regional_reports/Population%20Projections_2015_2020.pdf
+38,Kanada,38.177.600,"Mei 19, 2021",0.495%,http://www.statcan.gc.ca/daily-quotidien/170927/dq170927e-eng.htm?HPA=1&indid=4098-1&indgeo=0
+39,Maroko,35.728.300,"Mei 19, 2021",0.463%,http://www.hcp.ma/Projections-de-la-population-totale-par-groupe-d-age-et-sexe-en-milliers-et-au-milieu-de-l-annee-1960-2050_a676.html
+40,Arab Saudi,"33,413,660",1 Januari 2018,0.43%,https://www.stats.gov.sa/en/43
+41,Malaysia,32.789.300,"Mei 19, 2021",0.425%,http://www.statistics.gov.my
+42,Uzbekistan,"32,345,000",1 Juli 2017,0.42%,https://www.gazeta.uz/ru/2017/08/07/demography/
+43,Peru,"31,826,018",1 Juli 2017,0.41%,https://www.inei.gob.pe/media/principales_indicadores/libro.pdf
+44,Venezuela,"31,431,164",1 Juli 2017,0.41%,http://www.ine.gov.ve/documentos/Demografia/SituacionDinamica/Proyecciones/xls/Nacional.xls
+45,Afganistan,"29,724,323",1 Juli 2017,0.39%,http://cso.gov.af/Content/files/%D8%AA%D8%AE%D9%85%DB%8C%D9%86%20%D9%86%D9%81%D9%88%D8%B3/Final%20Population%201396.pdf
+46,Ghana,"29,614,337",1 Januari 2018,0.38%,http://www.statsghana.gov.gh
+47,Angola,"29,250,009",1 Januari 2018,0.38%,http://www.ine.gov.ao/xportal/xmain?xpid=ine
+48,Mozambik,"28,861,863",1 Agustus 2017,0.37%,http://www.ine.gov.mz/operacoes-estatisticas/censos/censo-2007/censo-2017/resultados-preliminares-iv-rgph-2017
+49,Nepal,"28,825,709",1 Juli 2017,0.37%,http://cbs.gov.np/image/data/Population/Population%20projection%202011-2031/PopulationProjection2011-2031.pdf
+50,Yaman,"28,250,000",1 Juli 2017,0.37%,http://esa.un.org/unpd/wpp/DataQuery/
+51,Madagaskar,"25,571,000",1 Juli 2017,0.33%,http://esa.un.org/unpd/wpp/DataQuery/
+52,Korea Utara,"25,491,000",1 Juli 2017,0.33%,http://esa.un.org/unpd/wpp/DataQuery/
+53,Australia,26.082.200,"Mei 19, 2021",0.338%,http://www.abs.gov.au/AUSSTATS/abs@.nsf/Web+Pages/Population+Clock?opendocument
+54,Pantai Gading,"24,571,044",1 Juli 2017,0.32%,http://www.ins.ci/n/
+55,Kamerun,"23,794,164",1 Januari 2018,0.31%,http://www.bucrep.cm/index.php/en/
+–,Taiwan,"23,571,497",1 April 2018,0.31%,http://eng.stat.gov.tw/point.asp?index=9
+56,Sri Lanka,"21,444,000",1 Juli 2017,0.28%,http://www.statistics.gov.lk/PopHouSat/VitalStatistics/MidYearPopulation/Mid-year%20population%20by%20age%20group.pdf
+57,Niger,"20,651,070",1 Juli 2017,0.27%,http://www.stat-niger.org/statistique/file/RGPH2012/Niger.pdf
+58,Rumania,"19,638,000",1 Januari 2017,0.25%,http://www.insse.ro/cms/sites/default/files/com_presa/com_pdf/poprez_ian2017e.pdf
+59,Burkina Faso,"19,632,147",1 Juli 2017,0.25%,http://www.insd.bf/n/contenu/autres_publications/Projections_demographiques_sous_nationales_2007-2020.pdf
+60,Mali,"18,542,000",1 Juli 2017,0.24%,http://esa.un.org/unpd/wpp/DataQuery/
+61,Suriah,"18,270,000",1 Juli 2017,0.24%,http://esa.un.org/unpd/wpp/DataQuery/
+62,Kazakhstan,"18,232,000",1 Mei 2018,0.24%,http://www.stat.gov.kz/faces/homePag
+63,Chili,"17,574,003",15 April 2017,0.23%,http://www.ine.cl/prensa/detalle-prensa/2017/12/22/primeros-resultados-definitivos-del-censo-2017-un-total-de-17.574.003-personas-fueron-efectivamente-censadas
+64,Malawi,"17,373,185",1 Juli 2017,0.23%,http://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2008/Main%20Report/ThematicReports/Population%20Projections%20Malawi.pdf
+65,Belanda,17.214.200,"Mei 19, 2021",0.223%,https://www.cbs.nl/en-gb/visualisaties/population-counter
+66,Ekuador,17.734.300,"Mei 19, 2021",0.23%,http://www.ecuadorencifras.gob.ec/estadisticas/
+67,Zambia,"16,405,229",1 Juli 2017,0.21%,http://www.zamstats.gov.zm/phocadownload/Zambia%20Census%20Projection%202011%20-%202035.pdf
+68,Guatemala,"16,176,133",1 Juli 2015,0.21%,http://www.ine.gob.gt/index.php/estadisticas/tema-indicadores
+69,Kamboja,"15,848,495",1 Juli 2017,0.21%,http://www.stat.go.jp/info/meetings/cambodia/pdf/rp12_ch10.pdf
+70,Senegal,"15,726,037",1 Januari 2018,0.2%,http://www.ansd.sn
+71,Chad,"14,900,000",1 Juli 2017,0.19%,http://esa.un.org/unpd/wpp/DataQuery/
+72,Somalia,"14,742,523",1 Juli 2017,0.19%,http://esa.un.org/unpd/wpp/DataQuery/
+73,Zimbabwe,"14,542,235",1 Juli 2017,0.19%,http://www.zimstat.co.zw/sites/default/files/img/publications/Census/population_projection.pdf
+74,Guinea,"11,883,516",1 Januari 2018,0.15%,http://www.stat-guinee.org/
+75,Sudan Selatan,"11,868,209",1 Juli 2017,0.15%,http://www.ssnbss.org/sites/default/files/2016-08/population_projections_for_south_sudan_2015_2020.pdf
+76,Rwanda,"11,809,300",1 Juli 2017,0.15%,http://statistics.gov.rw/sites/default/files/publications/48505cad-b578-4aaa-8932-f4c8f01fcc79/RPHC4_Population_Projections.pdf
+77,Tunisia,"11,446,300",1 Juli 2017,0.15%,http://www.ins.tn/
+78,Belgia,"11,406,122",1 April 2018,0.15%,http://www.ibz.rrn.fgov.be/fileadmin/user_upload/fr/pop/statistiques/stat-1-1_f.pdf
+79,Kuba,"11,239,224",31 Desember 2016,0.15%,http://www.one.cu/publicaciones/cepde/indicadoresdemograficos/anual/2_tabla_1.pdf
+80,Bolivia,"11,145,770",1 Juli 2017,0.14%,https://web.archive.org/web/20110924073930/http://www.ine.gob.bo/
+81,Benin,"11,002,578",1 Juli 2017,0.14%,http://www.insae-bj.org/Migration.html?file=files/stats-demographiques/STATISTIQUES%20DEMOGRAPHIQUES.xlsx
+82,Haiti,"10,911,819",31 Maret 2015,0.14%,http://www.ihsi.ht/pdf/projection/Estimat_PopTotal_18ans_Menag2015.pdf
+83,Yunani,"10,768,193",1 Januari 2017,0.14%,http://www.statistics.gr/en/statistics/-/publication/SPO18/-
+84,Ceko,"10,610,055",31 Desember 2017,0.14%,https://www.czso.cz/csu/czso/population
+85,Burundi,"10,400,938",1 Juli 2017,0.13%,http://www.isteebu.bi/images/rapports/projection%20de%20la%20population%20bdi%202008-2030.pdf
+86,Portugal,"10,309,573",31 Desember 2016,0.13%,https://www.ine.pt/xportal/xmain?xpgid=ine_main&xpid=INE
+87,Republik Dominika,"10,169,172",1 Juli 2017,0.13%,https://web.archive.org/web/20170525074831/http://www.one.gob.do/Multimedia/Download?ObjId=6641
+88,Yordania,10.942.200,"Mei 19, 2021",0.142%,http://dosweb.dos.gov.jo/
+89,Swedia,"10,151,588",30 April 2018,0.13%,http://www.scb.se/BE0101
+90,Azerbaijan,"9,898,085",1 Januari 2018,0.13%,https://www.stat.gov.az/news/index.php?id=3776
+91,Hongaria,"9,771,000",1 Januari 2018,0.13%,http://statinfo.ksh.hu/Statinfo/haViewer.jsp
+92,Belarus,"9,484,300",1 April 2018,0.12%,http://www.belstat.gov.by/en/
+93,Uni Emirat Arab,"9,400,000",1 Juli 2017,0.12%,http://esa.un.org/unpd/wpp/DataQuery/
+94,Tajikistan,"8,931,000",1 Januari 2018,0.12%,http://www.stat.tj/en/
+95,Honduras,"8,866,351",1 Juli 2017,0.11%,http://www.ine.gob.hn/images/Productos%20ine/censo/Censo%202013/Proyecciones/Proyecciones%20Ine%202017.xlsx
+96,Israel,9.360.300,"Mei 19, 2021",0.121%,http://www.cbs.gov.il/reader/cw_usr_view_Folder?ID=141
+97,Austria,"8,830,487",1 April 2018,0.11%,http://www.statistik.at/web_de/statistiken/bevoelkerung/bevoelkerungsstand_und_veraenderung/bevoelkerung_zu_jahres-_quartalsanfang/023582.html
+98,Swiss,"8,482,200",31 Desember 2017,0.11%,https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung.assetdetail.4782547.html
+99,Papua Nugini,"8,151,300",1 Juli 2016,0.11%,http://prism.spc.int/regional-data-and-tools/population-statistics
+–,Hong Kong,"7,409,800",1 Januari 2018,0.096%,http://www.censtatd.gov.hk/hkstat/sub/so20.jsp
+100,Togo,"7,178,000",1 Juli 2017,0.093%,http://www.stat-togo.org/index.php/thematiques/statistiques-demographiques/32-thematiques/statistiques-demographiques/etat-structure/79-perspectives-demo
+101,Sierra Leone,"7,092,113",4 Desember 2015,0.092%,https://www.statistics.sl/wp-content/uploads/2017/01/final-results_-2015_population_and_housing_census.pdf
+102,Paraguay,"7,052,983",1 Januari 2018,0.091%,http://www.dgeec.gov.py/Publicaciones/Biblioteca/proyeccion%20nacional/Estimacion%20y%20proyeccion%20Nacional.pdf
+103,Bulgaria,"7,050,034",31 Desember 2017,0.091%,http://www.nsi.bg/en/content/16080/%D0%BF%D1%80%D0%B5%D1%81%D1%81%D1%8A%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5/population-and-demographic-processes-2017
+104,Serbia,"7,040,272",1 Januari 2017,0.091%,http://www.stat.gov.rs/WebSite/Public/PageView.aspx?pKey=2
+105,El Salvador,"6,581,940",1 Juli 2017,0.085%,http://www.digestyc.gob.sv/index.php/temas/des/ehpm/publicaciones-ehpm.html?download=488%3Aestimaciones-y-proyecciones-de-poblacion
+106,Laos,"6,492,400",1 Maret 2015,0.084%,http://www.lsb.gov.la/
+107,Libya,"6,374,616",1 Juli 2017,0.083%,http://esa.un.org/unpd/wpp/DataQuery/
+108,Nikaragua,"6,305,956",1 Juli 2017,0.082%,http://pronicaragua.gob.ni/en/discover-nicaragua/5-population/
+109,Kirgizstan,"6,140,200",1 Januari 2017,0.08%,http://stat.kg/ru/publications/doklad-socialno-ekonomicheskoe-polozhenie-kyrgyzskoj-respubliki//
+110,Lebanon,"6,082,000",1 Juli 2017,0.079%,http://esa.un.org/unpd/wpp/DataQuery/
+111,Denmark,"5,785,864",1 April 2018,0.075%,http://www.dst.dk/en/Statistik/emner/befolkning-og-valg/befolkning-og-befolkningsfremskrivning/folketal
+112,Turkmenistan,"5,758,000",1 Juli 2017,0.075%,http://esa.un.org/unpd/wpp/DataQuery/
+113,Singapura,"5,612,300",1 Juli 2017,0.073%,http://www.singstat.gov.sg/statistics/latest-data#16
+114,Finlandia,"5,513,902",30 April 2018,0.072%,http://tilastokeskus.fi/til/vamuu/2018/04/vamuu_2018_04_2018-05-18_tie_001_en.html
+115,Slowakia,"5,443,120",1 Januari 2018,0.071%,https://slovak.statistics.sk/wps/portal/ext/products/informationmessages/inf_sprava_detail/!ut/p/z1/rVJNc5swFPwtOXAUeugDid6wW-OvprUpcaxLB7BsUwdBgEL974szPnTchrQz1eWNZnal3X2LFX7EysRtdoibrDDxU3_fKvfrSszkaOT4AKMlhdl8Ed5PxxMSRBxvXgDjwJ8ysQSQy4DDzJ9Ga29FKfgUq1_5cvRAYCbu185itQoWDrvy4ZXjw9_xBwBqWP8DVlilpimbI94WSR0fkTYWZGZfVHmfQms0qssqbs8WtLVuTv10CWHC2XHEYydFjLsUSRc48rTeMxA64Sm_PFum2Q5vY71PKdl5iAgiEaOaotjhHKU6BoemO00S59bG7zrVcEqby38DQUTiCpiEn4nvsWD8fv1pArMvYyLDpUsgcN8AgHMFDO36LZlzrLIkt7s0t8EGoIx40qOsT891uUcvdfNNQuUBq0rvdaUr-3vVt_DYNGX9zgILtLG77JSVepfFdlEdLPgT6VjUDX68xeJQG7ztkxavJu0IvGkz3eHIXPb_hMN_XOT0xqSQAqgQkhHmuZy-WMy-PT8rv69dYRr9oxf6P3tX5lEU5ZKe0Wn9Yf-x4Qnbztvu3Pl3dz8BIZQ2FQ!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/
+116,Norwegia,"5,302,778",1 April 2018,0.069%,https://www.ssb.no/en/befolkning/statistikker/folkemengde/kvartal
+117,Republik Kongo,"5,260,750",1 Juli 2017,0.068%,http://esa.un.org/unpd/wpp/DataQuery/
+118,Eritrea,"5,068,831",1 Juli 2017,0.066%,http://esa.un.org/unpd/wpp/DataQuery/
+119,Kosta Rika,"4,947,490",30 Juni 2017,0.064%,http://www.inec.go.cr/
+120,Selandia Baru,5.144.660,"Mei 19, 2021",0.0667%,http://archive.stats.govt.nz/tools_and_services/population_clock.aspx
+121,Palestina,"4,816,503",1 Juli 2016,0.062%,http://www.pcbs.gov.ps/Portals/_Rainbow/Documents/gover_e.htm
+122,Irlandia,"4,792,500",1 April 2017,0.062%,http://pdf.cso.ie/www/pdf/20170928092709_Population_and_Migration_Estimates_April_2017_full.pdf
+123,Afrika Tengah,"4,659,080",1 Juli 2017,0.06%,http://esa.un.org/unpd/wpp/DataQuery/
+124,Oman,"4,639,678",1 Desember 2017,0.06%,http://www.ncsi.gov.om/Pages/NCSI.aspx
+125,Liberia,"4,289,520",1 Juli 2017,0.056%,http://www.lisgis.net/pg_img/Population%20Projection%20final%20110512.pdf
+126,Kroasia,"4,154,213",31 Desember 2016,0.054%,http://www.dzs.hr/Eng/system/first_results.htm#MIG
+127,Panama,"4,098,135",1 Juli 2017,0.053%,https://www.contraloria.gob.pa/inec/archivos/P4741CUADRO14.xls
+128,Kuwait,"4,082,704",1 Januari 2017,0.053%,https://www.csb.gov.kw/Default_EN.aspx
+129,Mauritania,"3,806,719",1 Juli 2017,0.049%,https://web.archive.org/web/20150925151255/http://www.ons.mr/doc/publication/Projectionpopulation.pdf
+130,Georgia,"3,729,600",1 Januari 2018,0.048%,http://www.geostat.ge/index.php?action=page&p_id=152&lang=eng
+131,Moldova,"3,550,900",1 Januari 2017,0.046%,http://www.statistica.md/newsview.php?l=en&idc=168&id=5523
+132,Bosnia dan Herzegovina,"3,511,372",1 Juli 2016,0.046%,http://www.bhas.ba/tematskibilteni/DEM_00_2016_TB_0_BS.pdf
+133,Uruguay,"3,493,205",30 Juni 2017,0.045%,http://www.ine.gub.uy/web/guest/estimaciones-y-proyecciones
+–,Puerto Riko,"3,337,177",1 Juli 2017,0.043%,https://www.census.gov/data/tables/2017/demo/popest/nation-total.html
+134,Mongolia,3.403.725,"Mei 19, 2021",0.044%,http://www.en.nso.mn/home
+135,Armenia,"2,972,900",31 Desember 2017,0.039%,http://www.armstat.am/en/?nid=12&id=19001&submit=Search
+136,Albania,"2,870,324",1 Januari 2018,0.037%,http://www.instat.gov.al/media/3766/population-1-Januari-2018.pdf
+137,Lituania,"2,800,830",1 Juni 2018,0.036%,http://osp.stat.gov.lt
+138,Jamaika,"2,728,864",31 Desember 2017,0.035%,http://statinja.gov.jm/Demo_SocialStats/Newpopulation.aspx
+139,Qatar,"2,685,053",1 Maret 2018,0.035%,http://www.mdps.gov.qa/en/Pages/default.aspx
+140,Namibia,"2,368,747",1 Juli 2017,0.031%,http://cms.my.na/assets/documents/p19dn4fhgp14t5ns24g4p6r1c401.pdf
+141,Lesotho,"2,233,339",1 Juli 2017,0.029%,http://esa.un.org/unpd/wpp/DataQuery/
+142,Botswana,"2,230,905",1 Juli 2016,0.029%,https://web.archive.org/web/20160919171749/http://www.cso.gov.bw/images/projections_2011-2026.pdf
+143,Gambia,"2,101,000",1 Juli 2017,0.027%,http://esa.un.org/unpd/wpp/DataQuery/
+144,Makedonia,"2,073,702",31 Desember 2016,0.027%,http://www.stat.gov.mk/OblastOpsto_en.aspx?id=2
+145,Slovenia,"2,066,880",1 Januari 2018,0.027%,http://www.stat.si/StatWeb/en
+146,Gabon,"2,025,137",1 Juli 2017,0.026%,https://esa.un.org/unpd/wpp/DataQuery/
+147,Latvia,"1,923,500",1 Mei 2018,0.025%,http://www.csb.gov.lv/en/statistikas-temas/population-key-indicators-30624.html
+–,Kosovo,"1,783,531",31 Desember 2016,0.023%,http://ask.rks-gov.net/media/3485/estimation-kosovo-publication-2016.pdf
+148,Guinea-Bissau,"1,553,822",1 Juli 2017,0.02%,http://www.stat-guinebissau.com/publicacao/Projeccao_demografica.pdf
+149,Bahrain,"1,451,200",1 Juli 2017,0.019%,http://www.cio.gov.bh/cio_ara/English/Publications/Statistical%20Abstract/ABS2011/CH2/2013%2012%2019%20Bahrain%20%20Population%20Projections.pdf
+150,Trinidad dan Tobago,"1,356,633",1 Juli 2017,0.018%,http://cso.gov.tt/
+151,Estonia,"1,319,133",1 Januari 2018,0.017%,https://www.stat.ee/news-release-2018-050
+152,Mauritius,"1,264,887",1 Juli 2017,0.016%,http://statsmauritius.govmu.org/English/Publications/Pages/Pop_Vital_Jan-JunYr17.aspx
+153,Guinea Khatulistiwa,"1,222,442",1 Juli 2015,0.016%,http://www.citypopulation.de/EquatorialGuinea.html
+154,Timor Leste,"1,167,242",11 Juli 2015,0.015%,http://www.statistics.gov.tl/wp-content/uploads/2015/10/1-Preliminary-Results-4-Printing-Company-19102015.pdf
+155,Eswatini,"1,145,970",1 Juli 2017,0.015%,http://www.swazistats.org.sz/images/reports/Swaziland%20Population%20Projections%202007_2030%20Report.pdf
+156,Djibouti,"956,985",1 Juli 2017,0.012%,http://esa.un.org/unpd/wpp/DataQuery/
+157,Fiji,"884,887",17 September 2017,0.011%,http://www.statsfiji.gov.fj/census/
+158,Siprus,"854,800",31 Desember 2016,0.011%,http://www.mof.gov.cy/mof/cystat/statistics.nsf/All/59864653479E6721C22581E2003786DE?OpenDocument&sub=1&sel=1&e=&print
+159,Komoro,"806,153",1 Juli 2016,0.01%,https://web.archive.org/web/20160111213747/http://comoros.africadata.org/fr/DataAnalysis
+160,Bhutan,839.520,"Mei 19, 2021",0.011%,https://web.archive.org/web/20160816082701/http://www.nsb.gov.bt/nsbweb/main/main.php
+161,Guyana,"777,859",1 Juli 2017,0.0101%,http://esa.un.org/unpd/wpp/DataQuery/
+–,Makau,"656,700",31 Maret 2018,0.0085%,http://www.dsec.gov.mo/TimeSeriesDatabase.aspx?KeyIndicatorID=12
+162,Kepulauan Solomon,"651,700",1 Juli 2016,0.0085%,http://sdd.spc.int/en/resources/document-library?view=download&format=raw&fileId=580
+163,Montenegro,"622,387",1 Januari 2017,0.0081%,http://www.monstat.org/eng/page.php?id=234&pageid=48
+164,Luksemburg,"602,005",1 Januari 2018,0.0078%,http://www.statistiques.public.lu/fr/actualites/population/population/2018/04/20180419/20180419.pdf
+–,Sahara Barat,"552,628",1 Juli 2017,0.0072%,http://esa.un.org/unpd/wpp/DataQuery/
+165,Suriname,"541,638",13 Agustus 2012,0.007%,http://www.citypopulation.de/Suriname-Cities.html
+166,Tanjung Verde,"537,661",1 Juli 2017,0.007%,https://web.archive.org/web/20140910131550/http://www.ine.cv/actualise/publicacao/files/615430153152013Retro-Projeccao%202000-2010%20e%20Projeccoes%20Demograficas%20%20CABO%20VERDE%202010-2030.pdf
+–,Transnistria,"475,665",15 Oktober 2015,0.0062%,http://gov-pmr.org/item/6831
+167,Malta,"434,403",31 Desember 2015,0.0056%,https://nso.gov.mt/en/publicatons/Publications_by_Unit/Documents/02_Regional_Statistics_(Gozo_Office)/Regional%20Statistics%20MALTA%202017%20Edition.pdf
+168,Brunei,"422,678",1 Juli 2016,0.0055%,http://www.depd.gov.bn/SitePages/National%20Statistics.aspx
+169,Belize,"387,879",1 Juli 2017,0.005%,http://www.sib.org.bz/
+170,Bahama,"382,460",1 Juli 2017,0.005%,http://www.bahamas.gov.bs/wps/wcm/connect/22f9b2b0-68fa-4a26-8bd8-474952e42dc2/Population+Projection+Report+2010-2040.pdf?MOD=AJPERES
+171,Islandia,"350,710",31 Maret 2018,0.0045%,https://www.statice.is/publications/news-archive/population/population-in-the-1st-quarter-2018//
+172,Maladewa,"344,023",20 September 2014,0.0045%,http://statisticsmaldives.gov.mv/nbs/wp-content/uploads/2015/10/Census-Summary-Tables1.pdf
+–,Siprus Utara,"313,626",30 Juni 2014,0.0041%,http://www.devplan.org/Ecosos/BOOK/SEG-2014.pdf
+173,Vanuatu,"289,700",1 Juli 2016,0.0038%,http://sdd.spc.int/en/resources/document-library?view=download&format=raw&fileId=580
+174,Barbados,"285,719",1 Juli 2017,0.0037%,http://esa.un.org/unpd/wpp/DataQuery/
+–,Kaledonia Baru,"277,000",1 Juli 2016,0.0036%,http://sdd.spc.int/en/resources/document-library?view=download&format=raw&fileId=580
+–,Polinesia Prancis,"275,918",17 Agustus 2017,0.0036%,http://www.ispf.pf/docs/default-source/rp2017/cpo_rp2017.pdf?sfvrsn=2
+–,Abkhazia,"240,705",28 Mei 2011,0.0031%,https://web.archive.org/web/20120209185131/http://apsnypress.info/news/5084.html
+175,Samoa,"197,448",1 Juli 2017,0.0026%,http://www.sbs.gov.ws/index.php/population-demography-and-vital-statistics
+176,São Tomé dan Príncipe,"187,356",13 Mei 2012,0.0024%,http://www.ine.st/Documentacao/InformacoesEstatisticas/Demograficas/22.pdf
+–,Guam,"184,200",1 Juli 2015,0.0024%,http://www.spc.int/sdd/images/documents/Pocket_Summary/2015_Pocket-Statistical-Summary.pdf
+177,Saint Lucia,"178,844",1 Juli 2017,0.0023%,http://esa.un.org/unpd/wpp/DataQuery/
+–,Curaçao,"160,337",1 Januari 2017,0.0021%,http://www.cbs.cw/
+–,,"150,932",1 Desember 2015,0.002%,https://web.archive.org/web/20160815080441/http://stat-nkr.am/hy/2010-11-24-10-40-02/597--2015
+178,Kiribati,"115,300",1 Juli 2016,0.0015%,http://sdd.spc.int/en/resources/document-library?view=download&format=raw&fileId=580
+–,Aruba,"110,882",30 Juni 2017,0.0014%,http://cbs.aw/wp/
+179,Saint Vincent dan Grenadine,"109,557",1 Juli 2015,0.0014%,http://stats.gov.vc/LinkClick.aspx?fileticket=_6PsL6EZf6E%3d&tabid=131&mid=588
+–,Kepulauan Virgin AS,"104,901",1 Juli 2017,0.0014%,http://esa.un.org/unpd/wpp/DataQuery/
+180,Federasi Mikronesia,"104,600",1 Juli 2016,0.0014%,http://sdd.spc.int/en/resources/document-library?view=download&format=raw&fileId=580
+–,Jersey,"104,200",31 Desember 2016,0.0014%,https://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/R%20Population%20Estimate%202016%2020170622%20SU.pdf
+181,Grenada,"103,328",12 Mei 2011,0.0013%,https://web.archive.org/web/20120614004809/http://www.geohive.com/cntry/grenada.aspx
+182,Tonga,"103,252",1 Januari 2013,0.0013%,http://pdl.spc.int/index.php/catalog/52/download/134
+183,Seychelles,"94,205",31 Desember 2016,0.0012%,http://www.nbs.gov.sc/downloads?task=document.viewdoc&id=104
+184,Antigua dan Barbuda,"86,295",27 Mei 2011,0.0011%,http://www.citypopulation.de/Antigua.html
+–,Pulau Man,"83,314",24 April 2016,0.0011%,https://www.gov.im/media/1355784/2016-isle-of-man-census-report.pdf
+185,Andorra,"78,264",31 Desember 2016,0.001%,http://www.estadistica.ad/serveiestudis/web/banc_dades4.asp?lang=1&codi_tema=2&codi_divisio=8&codi_subtemes=8
+186,Dominika,"71,293",14 Mei 2011,0.00092%,http://www.dominica.gov.dm/cms/files/2011_census_report.pdf
+–,Bermuda,"63,779",21 Mei 2016,0.00083%,https://www.gov.bm/articles/2016-population-and-housing-census-preliminary-report
+–,Guernsey,"62,723",31 Maret 2016,0.00081%,https://www.gov.gg/CHttpHandler.ashx?id=105766&p=0
+–,Kepulauan Cayman,"60,413",31 Desember 2015,0.00078%,http://www.eso.ky/populationandvitalstatistics.html#1
+–,Samoa Amerika,"56,400",1 Juli 2016,0.00073%,http://sdd.spc.int/en/resources/document-library?view=download&format=raw&fileId=580
+–,Greenland,"55,877",1 Januari 2018,0.00072%,http://www.stat.gl/dialog/main.asp?lang=en&version=201703&sc=BE&subthemecode=O1&colcode=O
+–,Kepulauan Mariana Utara,"55,700",1 Juli 2016,0.00072%,http://sdd.spc.int/en/resources/document-library?view=download&format=raw&fileId=580
+187,Kepulauan Marshall,"55,000",1 Juli 2016,0.00071%,http://sdd.spc.int/en/resources/document-library?view=download&format=raw&fileId=580
+–,Ossetia Selatan,"53,532",15 Oktober 2015,0.00069%,http://cominf.org/node/1166509275
+–,Kepulauan Faroe,"50,750",1 Maret 2018,0.00066%,http://www.hagstova.fo/en
+188,Saint Kitts dan Nevis,"46,204",15 Mei 2011,0.0006%,http://www.citypopulation.de/StKittsNevis.html
+–,Sint Maarten,"39,410",1 Januari 2016,0.00051%,https://web.archive.org/web/20160930004308/http://stat.gov.sx/
+189,Monako,"38,300",31 Desember 2017,0.0005%,http://www.monacostatistics.mc/News/Population-officielle-2015
+190,Liechtenstein,"38,111",31 Desember 2017,0.00049%,http://www.llv.li/#/1124/bevolkerungsstatistik--juni
+–,Kepulauan Turks dan Caicos,"37,910",1 Juli 2016,0.00049%,http://www.sppdtci.com/welcome
+–,,"36,457",1 Januari 2015,0.00047%,http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/com.asp?dep=978
+–,Gibraltar,"33,573",31 Desember 2015,0.00044%,http://www.citypopulation.de/Gibraltar.html
+191,San Marino,"33,326",30 April 2018,0.00043%,http://www.statistica.sm/on-line/en/home/statistics/population.html#
+–,Kepulauan Virgin Britania Raya,"28,514",1 Juli 2013,0.00037%,https://web.archive.org/web/20160129030354/http://www.caricomstats.org/Files/Databases/vital%20statistics/Midyear_Population.pdf
+–,Kepulauan Cook,"18,100",1 Maret 2016,0.00023%,http://www.mfem.gov.ck/images/documents/Statistics_Docs/2.Social/Population_Estimates__Vital_Statistics/2016/BDM_Statistics_Report_201601.pdf
+192,Palau,"17,800",1 Juli 2016,0.00023%,http://sdd.spc.int/en/resources/document-library?view=download&format=raw&fileId=580
+–,Anguilla,"13,452",11 Mei 2011,0.00017%,http://www.citypopulation.de/Anguilla.html
+–,Wallis dan Futuna,"11,800",1 Juli 2016,0.00015%,http://sdd.spc.int/en/resources/document-library?view=download&format=raw&fileId=580
+193,Tuvalu,"10,782",4 November 2012,0.00014%,http://sdd.spc.int/en/resources/document-library?view=download&format=raw&fileId=580
+194,Nauru,"10,084",30 Oktober 2011,0.00013%,http://prism.spc.int/images/census_reports/Nauru_2011_Census_Report_FINAL.pdf
+–,Saint-Barthélemy,"9,417",1 Januari 2015,0.00012%,http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/com.asp?dep=977
+–,Saint Pierre dan Miquelon,"6,286",1 Januari 2015,0.000082%,http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/com.asp?dep=975
+–,Saint Helena,"5,633",7 Mei 2016,0.000073%,http://www.sainthelena.gov.sh/wp-content/uploads/2016/06/Census-2016-summary-report.pdf
+–,Montserrat,"4,922",12 Mei 2011,0.000064%,http://www.gov.ms/wp-content/uploads/2011/02/Montserrat-At-A-Glance.pdf
+–,Kepulauan Falkland,"2,563",15 April 2012,0.000033%,http://www.falklands.gov.fk/our-people
+–,Pulau Natal,"1,843",9 Agustus 2016,0.000024%,http://www.citypopulation.de/Australia-Agglo.html
+–,Pulau Norfolk,"1,748",9 Agustus 2016,0.000023%,http://www.citypopulation.de/Australia-Agglo.html
+–,Niue,"1,611",1 Juli 2011,0.000021%,http://prism.spc.int/images/census_reports/Niue_2011_Population_Households_Census.pdf
+–,Tokelau,"1,499",2 Mei 2017,0.000019%,https://www.tokelau.org.nz/site/tokelau/files/TokelauNSO/2016Census/TokelauCensusTechnicalRelease1E.pdf
+195,Vatikan,800,1 Januari 2014,0.000010%,http://www.vaticanstate.va/content/vaticanstate/en/stato-e-governo/note-generali/popolazione.html
+–,Kepulauan Cocos (Keeling),544,9 Agustus 2016,0.0000071%,http://www.citypopulation.de/Australia-Agglo.html
